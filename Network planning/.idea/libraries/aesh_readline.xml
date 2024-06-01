@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="aesh.readline" type="repository">
+    <properties maven-id="org.aesh:aesh-readline:1.17" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/aesh/aesh-readline/1.17/aesh-readline-1.17.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
